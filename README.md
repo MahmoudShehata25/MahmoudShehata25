@@ -42,4 +42,4 @@
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MahmoudShehata25.MahmoudShehata25)-->
 
 
-[![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
